@@ -8,6 +8,7 @@ A repository where updates of my leetcode solutions are given
 | [0014-longest-common-prefix](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/0014-longest-common-prefix/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3668-restore-finishing-order](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3668-restore-finishing-order/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3668-restore-finishing-order](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3668-restore-finishing-order/) | Easy |
 <!---LeetCode Topics End-->

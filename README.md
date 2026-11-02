@@ -7,6 +7,7 @@ A repository where updates of my leetcode solutions are given
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/0014-longest-common-prefix/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -54,4 +55,8 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->

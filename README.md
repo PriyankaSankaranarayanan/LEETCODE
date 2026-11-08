@@ -6,6 +6,7 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/0014-longest-common-prefix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -49,6 +50,7 @@ A repository where updates of my leetcode solutions are given
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
@@ -63,4 +65,12 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1672-richest-customer-wealth/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->

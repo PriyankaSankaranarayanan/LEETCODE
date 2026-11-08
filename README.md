@@ -13,6 +13,7 @@ A repository where updates of my leetcode solutions are given
 | [1929-concatenation-of-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |

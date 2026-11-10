@@ -17,6 +17,7 @@ A repository where updates of my leetcode solutions are given
 | [2574-left-and-right-sum-differences](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |

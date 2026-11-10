@@ -8,6 +8,7 @@ A repository where updates of my leetcode solutions are given
 | [0014-longest-common-prefix](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/0014-longest-common-prefix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1470-shuffle-the-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -61,6 +62,7 @@ A repository where updates of my leetcode solutions are given
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |

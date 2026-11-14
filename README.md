@@ -14,6 +14,7 @@ A repository where updates of my leetcode solutions are given
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -56,6 +57,7 @@ A repository where updates of my leetcode solutions are given
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
@@ -82,5 +84,10 @@ A repository where updates of my leetcode solutions are given
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->

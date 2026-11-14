@@ -18,6 +18,7 @@ A repository where updates of my leetcode solutions are given
 | [2574-left-and-right-sum-differences](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2974-minimum-number-game/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -50,6 +51,7 @@ A repository where updates of my leetcode solutions are given
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2974-minimum-number-game](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2974-minimum-number-game/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
@@ -77,6 +79,7 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2974-minimum-number-game](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2974-minimum-number-game/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +93,8 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->

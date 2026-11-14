@@ -13,6 +13,7 @@ A repository where updates of my leetcode solutions are given
 | [1672-richest-customer-wealth](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1929-concatenation-of-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -61,6 +62,7 @@ A repository where updates of my leetcode solutions are given
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3668-restore-finishing-order/) | Easy |
@@ -68,6 +70,7 @@ A repository where updates of my leetcode solutions are given
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

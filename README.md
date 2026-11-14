@@ -18,6 +18,7 @@ A repository where updates of my leetcode solutions are given
 | [2778-sum-of-squares-of-special-elements](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -55,6 +56,7 @@ A repository where updates of my leetcode solutions are given
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/PriyankaSankaranarayanan/WomenInTech/tree/main/3668-restore-finishing-order/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
